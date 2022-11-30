@@ -145,9 +145,7 @@ const Team = () => {
         <MemberComponent img={img1}  name="HONEY" position="founder" />
         <MemberComponent img={img2}  name="YESHWANTH" position="Co-Founder" />
         <MemberComponent img={img3}  name="SAMPATH" position="Director" />
-        <MemberComponent img={img4}  name="CHARLIE" position="manager" />
-        <MemberComponent img={img5}  name="DEATHSTROKE" position="artist" />
-        <MemberComponent img={img6}  name="DARE DEVIL" position="social media manager" />
+        
       </Container>
     </Section>
   )

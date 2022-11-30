@@ -184,11 +184,6 @@ const Footer = () => {
         <span>
           &copy; {new Date().getFullYear()} Astra Club
         </span>
-        <span>
-          Made with &#10084; by <a href="http://youtube.com/codebucks" target="_blank"  rel="noopener noreferrer">
-            CodeBucks
-          </a>
-        </span>
       </Bottom>
     </Section>
   )
